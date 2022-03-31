@@ -306,12 +306,3 @@ FROM bitnami/php-fpm:8.1.3-debian-10-r15
 
 # Tags: 7.4.28-debian-10-r14
 FROM bitnami/php-fpm:7.4.28-debian-10-r14
-
-# Tags: 8.0.16-debian-10-r13
-FROM bitnami/php-fpm:8.0.16-debian-10-r13
-
-# Tags: 8.1.3-debian-10-r14
-FROM bitnami/php-fpm:8.1.3-debian-10-r14
-
-# Tags: 7.4.28-debian-10-r13
-FROM bitnami/php-fpm:7.4.28-debian-10-r13
