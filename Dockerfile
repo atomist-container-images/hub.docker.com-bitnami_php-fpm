@@ -1,24 +1,68 @@
-# Tags: latest, 8.1.4-debian-10-r17, 8.1.4, 8.1-debian-10, 8.1
+# Tags: latest, 8.1.4-debian-10-r22, 8.1.4, 8.1-debian-10, 8.1
 FROM bitnami/php-fpm:latest
-FROM bitnami/php-fpm:8.1.4-debian-10-r17
+FROM bitnami/php-fpm:8.1.4-debian-10-r22
 FROM bitnami/php-fpm:8.1.4
 FROM bitnami/php-fpm:8.1-debian-10
 FROM bitnami/php-fpm:8.1
 
-# Tags: 7.4.28-debian-10-r46, 7.4.28, 7.4-debian-10, 7.4
-FROM bitnami/php-fpm:7.4.28-debian-10-r46
-FROM bitnami/php-fpm:7.4.28
-FROM bitnami/php-fpm:7.4-debian-10
-FROM bitnami/php-fpm:7.4
+# Tags: 8.0.17-debian-10-r22, 8.0.17, 8.0-debian-10, 8.0
+FROM bitnami/php-fpm:8.0.17-debian-10-r22
+FROM bitnami/php-fpm:8.0.17
+FROM bitnami/php-fpm:8.0-debian-10
+FROM bitnami/php-fpm:8.0
 
 # Tags: _
 FROM bitnami/php-fpm:_
 
-# Tags: 8.0.17-debian-10-r17, 8.0.17, 8.0-debian-10, 8.0
+# Tags: 7.4
+FROM bitnami/php-fpm:7.4
+
+# Tags: 8.0.17-debian-10-r21
+FROM bitnami/php-fpm:8.0.17-debian-10-r21
+
+# Tags: 7.4.28-debian-10-r50, 7.4.28, 7.4-debian-10
+FROM bitnami/php-fpm:7.4.28-debian-10-r50
+FROM bitnami/php-fpm:7.4.28
+FROM bitnami/php-fpm:7.4-debian-10
+
+# Tags: 8.1.4-debian-10-r21
+FROM bitnami/php-fpm:8.1.4-debian-10-r21
+
+# Tags: 8.0.17-debian-10-r20
+FROM bitnami/php-fpm:8.0.17-debian-10-r20
+
+# Tags: 7.4.28-debian-10-r49
+FROM bitnami/php-fpm:7.4.28-debian-10-r49
+
+# Tags: 8.1.4-debian-10-r20
+FROM bitnami/php-fpm:8.1.4-debian-10-r20
+
+# Tags: 8.0.17-debian-10-r19
+FROM bitnami/php-fpm:8.0.17-debian-10-r19
+
+# Tags: 7.4.28-debian-10-r48
+FROM bitnami/php-fpm:7.4.28-debian-10-r48
+
+# Tags: 8.1.4-debian-10-r19
+FROM bitnami/php-fpm:8.1.4-debian-10-r19
+
+# Tags: 7.4.28-debian-10-r47
+FROM bitnami/php-fpm:7.4.28-debian-10-r47
+
+# Tags: 8.0.17-debian-10-r18
+FROM bitnami/php-fpm:8.0.17-debian-10-r18
+
+# Tags: 8.1.4-debian-10-r18
+FROM bitnami/php-fpm:8.1.4-debian-10-r18
+
+# Tags: 7.4.28-debian-10-r46
+FROM bitnami/php-fpm:7.4.28-debian-10-r46
+
+# Tags: 8.1.4-debian-10-r17
+FROM bitnami/php-fpm:8.1.4-debian-10-r17
+
+# Tags: 8.0.17-debian-10-r17
 FROM bitnami/php-fpm:8.0.17-debian-10-r17
-FROM bitnami/php-fpm:8.0.17
-FROM bitnami/php-fpm:8.0-debian-10
-FROM bitnami/php-fpm:8.0
 
 # Tags: 8.1.4-debian-10-r16
 FROM bitnami/php-fpm:8.1.4-debian-10-r16
@@ -270,39 +314,3 @@ FROM bitnami/php-fpm:8.1.3-debian-10-r19
 
 # Tags: 7.4.28-debian-10-r18
 FROM bitnami/php-fpm:7.4.28-debian-10-r18
-
-# Tags: 8.0.16-debian-10-r17
-FROM bitnami/php-fpm:8.0.16-debian-10-r17
-
-# Tags: 8.1.3-debian-10-r18
-FROM bitnami/php-fpm:8.1.3-debian-10-r18
-
-# Tags: 7.4.28-debian-10-r17
-FROM bitnami/php-fpm:7.4.28-debian-10-r17
-
-# Tags: 8.0.16-debian-10-r16
-FROM bitnami/php-fpm:8.0.16-debian-10-r16
-
-# Tags: 8.1.3-debian-10-r17
-FROM bitnami/php-fpm:8.1.3-debian-10-r17
-
-# Tags: 7.4.28-debian-10-r16
-FROM bitnami/php-fpm:7.4.28-debian-10-r16
-
-# Tags: 8.0.16-debian-10-r15
-FROM bitnami/php-fpm:8.0.16-debian-10-r15
-
-# Tags: 8.1.3-debian-10-r16
-FROM bitnami/php-fpm:8.1.3-debian-10-r16
-
-# Tags: 7.4.28-debian-10-r15
-FROM bitnami/php-fpm:7.4.28-debian-10-r15
-
-# Tags: 8.0.16-debian-10-r14
-FROM bitnami/php-fpm:8.0.16-debian-10-r14
-
-# Tags: 8.1.3-debian-10-r15
-FROM bitnami/php-fpm:8.1.3-debian-10-r15
-
-# Tags: 7.4.28-debian-10-r14
-FROM bitnami/php-fpm:7.4.28-debian-10-r14
